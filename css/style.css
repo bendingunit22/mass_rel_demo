@@ -1,0 +1,65 @@
+body {background-image:url('steelbackground3.jpg');}
+#bands{
+	color: black;
+	/*text-align: center;*/
+	font-size: 25px;
+	font-family: arial;
+	font-weight: 50;
+
+}
+h1{
+	/*color:#999999;
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 2px 2px 2px #666;*/
+	font-size: 45px;
+	color:#D44848;
+	text-align: center;
+	text-shadow: 4px 1px 1px #380000;
+	font-weight: 100;
+	font-family: optima;
+
+}
+
+h2{
+	text-align: center;
+	font-size: 16px;
+	color: white;
+	font-family: arial;
+	font-weight: 500;
+}
+
+#boxx{
+	margin-left: auto ;
+  	margin-right: auto ;
+	border:30px solid rgba(0,0,0,.7);
+	padding:0px 0px; 
+	background:rgba(152,152,152,0.7);
+	width:500px;
+	height: 340px;
+	border-radius:50px;
+	padding-top: 0px;
+	padding-bottom: 25px;
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+
+.red{
+	color: #800000;
+}
+
+.afterBand {
+	float:right;
+}
+
+.ment{
+	font-size: 18px;
+}
+
+ul{
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
