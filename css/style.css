@@ -7,11 +7,7 @@ body {background-image:url('steelbackground3.jpg');}
 	font-weight: 50;
 
 }
-h1{
-	/*color:#999999;
-	font-size: 40px;
-	text-align: center;
-	text-shadow: 2px 2px 2px #666;*/
+h1{ 						/*main title*/
 	font-size: 45px;
 	color:#D44848;
 	text-align: center;
@@ -21,15 +17,15 @@ h1{
 
 }
 
-h2{
+h2{							/*honorable mentions*/
 	text-align: center;
-	font-size: 16px;
+	font-size: 18px;
 	color: white;
 	font-family: arial;
 	font-weight: 500;
 }
 
-#boxx{
+#boxx{ 						/*box where info is bands/counts are displayed*/
 	margin-left: auto ;
   	margin-right: auto ;
 	border:30px solid rgba(0,0,0,.7);
@@ -45,19 +41,17 @@ h2{
 
 }
 
-.red{
+.red{					/*used for count*/
 	color: #800000;
 }
 
-.afterBand {
+.afterBand {			/*used to align count to right*/
 	float:right;
 }
 
-.ment{
-	font-size: 18px;
-}
 
-ul{
+
+ul{						
 	padding-right: 40px;
 	padding-top: 10px;
 	padding-bottom: 10px;
